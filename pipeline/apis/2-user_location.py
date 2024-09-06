@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 """
     Uses the Star Wars API to return the list of ships that can hold
